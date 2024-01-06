@@ -1,9 +1,3 @@
----
-title: Omnidirectional AGV forklift with QR code integration
-author: Loïc Misenta, Hadrien Saigot Forest, Inés Araujo Cañas, Athena Papageorgiou Koufidou, Kalil Sama Bouzigues, Dylan Vairoli
-date: 2023
----
-
 # Omnidirectional AGV forklift using QR code recognition
 [Watch it in action](https://www.youtube.com/watch?v=CywsanmOO58)
 
@@ -40,3 +34,5 @@ This small-scale omnidirectional AVG forklift presents a simulation of larger-sc
   
 ## Related projects
 Our project has been heavily inspired by the [Arduino Mecanum Wheels Robot](https://howtomechatronics.com/projects/arduino-mecanum-wheels-robot/) tutorial by Dejan. We used their design for the wheels.
+
+Authors: Loïc Misenta, Hadrien Saigot Forest, Inés Araujo Cañas, Athena Papageorgiou Koufidou, Kalil Sama Bouzigues, Dylan Vairoli
