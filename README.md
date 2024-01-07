@@ -1,4 +1,4 @@
-# Omnidirectional AGV forklift using QR code recognition
+# Omnidirectional AGV forklift with QR code integration
 [Watch it in action](https://www.youtube.com/watch?v=CywsanmOO58)
 
 ## Overview
